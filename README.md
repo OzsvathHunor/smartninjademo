@@ -1,1 +1,3 @@
 # smartninjademo
+
+Teszt szöveg
